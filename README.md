@@ -53,7 +53,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yagnik-n-patel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /> LinkedIn</a><br>
-  <a href="mailto:yagnik@email.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20" width="20" /> Email</a><br>
+  <a href="mailto:yagnikptl22@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20" width="20" /> Email</a><br>
   <a href="https://github.com/YagnikPatel22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20" width="20" /> GitHub</a>
 </p>
 
