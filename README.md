@@ -23,9 +23,9 @@
 
 ## 🧠 Projects
 
-- 🐍 Snake Game – Classic snake game built with C++ and console rendering
-- 🧱 Tetris Game – Block-stacking game built with C++
-- 📷 QR Code Generator – A C++ console-based program that creates QR codes
+- 🐍 [Snake Game](https://github.com/YagnikPatel22/SnakeGame) – Classic snake game built with C++ and console rendering
+- 🧱 [Tetris Game](https://github.com/YagnikPatel22/TetrisGame) – Block-stacking game built with C++
+- 📷 [QR Code Generator](https://github.com/YagnikPatel22/QRCodeGenerator) – A C++ console-based program that creates QR codes
 
 > *More cool projects coming soon!*
 
