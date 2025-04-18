@@ -23,8 +23,9 @@
 
 ## 🧠 Projects
 
-- 🐍 **Snake Game** – Classic game built with [JavaScript/Python]  
-- 🔷 **Tetris Game** – Block-stacking logic game, just like the OG version  
+- 🐍 Snake Game – Classic snake game built with C++ and console rendering
+- 🧱 Tetris Game – Block-stacking game built with C++
+- 📷 QR Code Generator – A C++ console-based program that creates QR codes
 
 > *More cool projects coming soon!*
 
