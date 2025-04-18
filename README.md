@@ -13,9 +13,11 @@
 - 💻 Freelance Web Developer – building WordPress websites with a focus on performance & SEO  
 - 🎮 I love coding fun projects like the **Snake Game** and **Tetris Game**  
 - 🎯 Currently exploring:
-  - **JavaScript**, **React**, and frontend frameworks  
-  - **YouTube Shorts** based on motivation and podcast moments  
-  - Tech entrepreneurship with a dream to build my own **smartphone brand**
+  - **C**, **C++**, **DSA**, **JavaScript**, **React**, and frontend frameworks
+  - Video Editing (DaVinci Resolve 19).
+  - Graphic Designing.
+  - **YouTube Shorts** based on motivation and podcast moments.  
+  - Tech entrepreneurship with a dream to build my own **smartphone brand.**
 
 ---
 
@@ -23,8 +25,6 @@
 
 - 🐍 **Snake Game** – Classic game built with [JavaScript/Python]  
 - 🔷 **Tetris Game** – Block-stacking logic game, just like the OG version  
-- 🔌 **4-bit Binary to Gray Code Converter** – Built with logic gates on a breadboard  
-- 🧮 **Parity Generator** – 4-bit even parity logic circuit  
 
 > *More cool projects coming soon!*
 
@@ -35,7 +35,7 @@
 - **Languages**: `HTML`, `CSS3`, `JavaScript`, `PHP`, `C`  
 - **Frameworks/Libraries**: `jQuery`, `Bootstrap`  
 - **CMS**: `WordPress`  
-- **Tools**: `Git`, `GitHub`, `Canva`, `Filmora`  
+- **Tools**: `Git`, `GitHub`, `Canva`, `Filmora`, `Figma`, `DaVinci Resolve.` 
 - **SEO**: `Google Analytics`, `Search Console`, `Yoast SEO`
 
 ---
