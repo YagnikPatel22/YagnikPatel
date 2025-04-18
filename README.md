@@ -16,8 +16,6 @@
   - **C**, **C++**, **DSA**, **JavaScript**, **React**, and frontend frameworks
   - Video Editing (DaVinci Resolve 19).
   - Graphic Designing.
-  - **YouTube Shorts** based on motivation and podcast moments.  
-  - Tech entrepreneurship with a dream to build my own **smartphone brand.**
 
 ---
 
